@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "slug": "gundb",
+  "provider": "GunDB",
+  "providerUrl": "https://gun.eco/docs/",
+  "logo": "logo.svg",
+  "demo": null,
+  "setup": [
+    "Install: `install the gundb skill from https://github.com/BankrBot/skills/tree/main/gundb`.",
+    "Inspect the target project's installed GunDB version and adapters before using API snippets.",
+    "Before a production write or relay change, verify peer URLs, persistence, public/private data classification, and the two-client replication path."
+  ],
+  "install": {
+    "type": "bankr",
+    "repoPath": "gundb",
+    "command": "install the gundb skill from https://github.com/BankrBot/skills/tree/main/gundb"
+  }
+}
