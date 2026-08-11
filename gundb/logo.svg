@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="GunDB skill">
+  <rect width="128" height="128" rx="24" fill="#111827"/>
+  <path d="M33 41 64 24l31 17v46l-31 17-31-17Z" fill="none" stroke="#62d4b3" stroke-width="7" stroke-linejoin="round"/>
+  <circle cx="64" cy="64" r="12" fill="#62d4b3"/>
+  <path d="m42 52 12 7m20 10 12 7M74 59l12-7m-44 24 12-7" stroke="#62d4b3" stroke-width="6" stroke-linecap="round"/>
+</svg>
